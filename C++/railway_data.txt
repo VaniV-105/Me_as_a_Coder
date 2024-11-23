@@ -1,0 +1,14 @@
+Train Number: 101
+Train Name: Express One
+Capacity: 200 passengers
+---------------------
+Train Number: 202
+Train Name: Fast Track
+Capacity: 150 passengers
+---------------------
+Passenger Name: Alice
+Seat Number: 1
+---------------------
+Passenger Name: Bob
+Seat Number: 2
+---------------------
