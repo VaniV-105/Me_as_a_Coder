@@ -1,0 +1,14 @@
+Basic java programs:
+1.Write a program in java to display the number in reverse order.
+2.Write a program in java to find the HCF (Highest Common Factor) of two numbers.
+3.Write a java program  to determine the number of multiples of 3 between 20 and 80.
+4.Write a java program to find the largest palindrome number less than 1000.
+5.Write a java program to generate the first n terms of the Fibonacci sequence.
+6.Write a java program to calculate the product of all odd numbers from 1 to 50.
+7.Create a Student class with attributes like name, roll number, and marks in different subjects.
+Implement methods to calculate total marks, percentage, and grade.
+8.Create a BankAccount class with attributes like account number, balance, and account type.
+Implement methods for deposit, withdrawal, and checking balance.
+9.Create classes for different shapes like Circle, Rectangle, and Triangle.Each class should have necessary attributes and methods to calculate area and perimeter.
+Create objects of different shapes and perform calculations.
+10.Create a Calculator class with methods for basic arithmetic operations.
